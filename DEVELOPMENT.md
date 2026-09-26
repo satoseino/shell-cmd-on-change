@@ -5,7 +5,7 @@
 Clone the repository with submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/kxue43/shell-cmd-on-change.git
+git clone --recurse-submodules https://github.com/satoseino/shell-cmd-on-change.git
 ```
 
 If you already cloned without submodules, initialize them after the fact:
